@@ -1,0 +1,8 @@
+# importing calendar module
+# for calendar operations
+import calendar
+
+# using calender to print calendar of year
+# prints calendar for 2022
+print("The calender for year 2022 is : ")
+print(calendar.calendar(2022, 2, 1, 6))
